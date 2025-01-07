@@ -1,15 +1,16 @@
 \contentsline {chapter}{Lembar Persetujuan Pembimbing Tesis}{i}{section*.1}%
-\contentsline {chapter}{LEMBAR PERNYATAAN}{ii}{section*.3}%
-\contentsline {chapter}{ABSTRAK}{ii}{section*.4}%
-\contentsline {chapter}{Kata Pengantar}{ii}{section*.5}%
-\contentsline {chapter}{DAFTAR ISI}{iii}{chapter*.8}%
-\contentsline {chapter}{DAFTAR GAMBAR}{iv}{chapter*.10}%
-\contentsline {chapter}{DAFTAR TABEL}{v}{chapter*.12}%
-\contentsline {chapter}{\numberline {1}Pendahuluan}{vi}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Latar Belakang}{vi}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Perumusan Masalah}{vi}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Batasan Masalah}{vi}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Tujuan}{vi}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Manfaat}{vii}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{vii}{section.1.6}%
-\contentsline {chapter}{Pendahuluan}{vi}{section*.13}%
+\contentsline {chapter}{Lembar Persetujuan Dosen Penguji Tesis}{ii}{section*.3}%
+\contentsline {chapter}{LEMBAR PERNYATAAN}{iii}{section*.5}%
+\contentsline {chapter}{ABSTRAK}{iii}{section*.6}%
+\contentsline {chapter}{Kata Pengantar}{iii}{section*.7}%
+\contentsline {chapter}{DAFTAR ISI}{iv}{chapter*.10}%
+\contentsline {chapter}{DAFTAR GAMBAR}{v}{chapter*.12}%
+\contentsline {chapter}{DAFTAR TABEL}{vi}{chapter*.14}%
+\contentsline {chapter}{\numberline {1}Pendahuluan}{vii}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Latar Belakang}{vii}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Perumusan Masalah}{vii}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{vii}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Tujuan}{vii}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Manfaat}{viii}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{viii}{section.1.6}%
+\contentsline {chapter}{Pendahuluan}{vii}{section*.15}%
