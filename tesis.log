@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.2)  6 JAN 2025 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.2)  7 JAN 2025 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"g:/My Drive/Studi/Proposal/Latex_UNDIKSHA_format/tesis.tex"
-(g:/My Drive/Studi/Proposal/Latex_UNDIKSHA_format/tesis.tex
+**"g:/My Drive/Studi/Proposal/latex_tesis_undiksha/tesis.tex"
+(g:/My Drive/Studi/Proposal/latex_tesis_undiksha/tesis.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -31,6 +31,24 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
@@ -142,19 +160,16 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip51
+\Hy@SectionHShift=\skip65
 )
-
-Package hyperref Warning: Option `a4paper' is no longer used.
-
-Package hyperref Info: Option `colorlinks' set `false' on input line 14.
-Package hyperref Info: Option `bookmarksopen' set `false' on input line 14.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 14.
-(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package hyperref Info: Option `colorlinks' set `false' on input line 17.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 17.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 17.
+ (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip52
+\multirow@colwidth=\skip66
 \multirow@cntb=\count283
-\multirow@dima=\skip53
+\multirow@dima=\skip67
 \bigstrutjot=\dimen146
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -209,7 +224,7 @@ Package caption Info: Standard document class detected.
 Package caption Info: hyperref package is loaded.
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2024/11/05 v2.17t AMS math features
-\@mathmargin=\skip54
+\@mathmargin=\skip68
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
@@ -266,8 +281,8 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \totwidth@=\dimen172
 \lineht@=\dimen173
 \@envbody=\toks22
-\multlinegap=\skip55
-\multlinetaggap=\skip56
+\multlinegap=\skip69
+\multlinetaggap=\skip70
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -307,15 +322,15 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 76.
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
-\f@nch@headwidth=\skip57
-\f@nch@O@elh=\skip58
-\f@nch@O@erh=\skip59
-\f@nch@O@olh=\skip60
-\f@nch@O@orh=\skip61
-\f@nch@O@elf=\skip62
-\f@nch@O@erf=\skip63
-\f@nch@O@olf=\skip64
-\f@nch@O@orf=\skip65
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2024/10/28 v0.6c Insert pages of external PDF documents (AM)
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -326,12 +341,12 @@ Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count302
 \calc@Adimen=\dimen174
 \calc@Bdimen=\dimen175
-\calc@Askip=\skip66
-\calc@Bskip=\skip67
+\calc@Askip=\skip80
+\calc@Bskip=\skip81
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count303
-\calc@Cskip=\skip68
+\calc@Cskip=\skip82
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen176
@@ -375,12 +390,12 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \ar@mcellbox=\box56
 \extrarowheight=\dimen182
 \NC@list=\toks27
-\extratabsurround=\skip69
-\backup@length=\skip70
+\extratabsurround=\skip83
+\backup@length=\skip84
 \ar@cellbox=\box57
 )
 \everycr=\toks28
-\minrowclearance=\skip71
+\minrowclearance=\skip85
 \rownum=\count307
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -392,16 +407,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
 \c@BibCnt=\count309
-\bibleftmargin=\skip72
-\bibindent=\skip73
-\bibparsep=\skip74
-\bibitemsep=\skip75
-\biblabelsep=\skip76
+\bibleftmargin=\skip86
+\bibindent=\skip87
+\bibparsep=\skip88
+\bibitemsep=\skip89
+\biblabelsep=\skip90
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
 \ttl@box=\box60
-\beforetitleunit=\skip77
-\aftertitleunit=\skip78
+\beforetitleunit=\skip91
+\aftertitleunit=\skip92
 \ttl@plus=\dimen183
 \ttl@minus=\dimen184
 \ttl@toksa=\toks31
@@ -432,7 +447,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip79
+\labelindent=\skip93
 \enit@outerparindent=\dimen188
 \enit@toks=\toks32
 \enit@inbox=\box62
@@ -452,10 +467,10 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 Package: wrapfig 2003/01/31  v 3.6
 ) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
-\LTleft=\skip80
-\LTright=\skip81
-\LTpre=\skip82
-\LTpost=\skip83
+\LTleft=\skip94
+\LTright=\skip95
+\LTpre=\skip96
+\LTpost=\skip97
 \LTchunksize=\count320
 \LTcapwidth=\dimen191
 \LT@head=\box64
@@ -470,7 +485,7 @@ Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
 \LT@p@ftn=\toks34
 )) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-) (konfigurasi/conf_tesis.tex) (tesis.aux (konten/Hal_Depan/cover.aux) (konten/Hal_Depan/lembar_persetujuan.aux) (konten/Hal_Depan/lembar_pernyataan.aux) (konten/Hal_Depan/abstrak.aux) (konten/Hal_Depan/kata_pengantar.aux) (konten/Hal_Isi/bab_1.aux) (konten/Hal_Isi/bab_2.aux) (konten/Hal_Isi/bab_3.aux) (konten/Hal_Belakang/daftar_pustaka.aux))
+) (konfigurasi/conf_tesis.tex) (tesis.aux (konten/Hal_Depan/cover.aux) (konten/Hal_Depan/lembar_persetujuan_pembimbing.aux) (konten/Hal_Depan/lembar_pernyataan.aux) (konten/Hal_Depan/abstrak.aux) (konten/Hal_Depan/kata_pengantar.aux) (konten/Hal_Isi/bab_1.aux) (konten/Hal_Isi/bab_2.aux) (konten/Hal_Isi/bab_3.aux) (konten/Hal_Belakang/daftar_pustaka.aux))
 \openout1 = `tesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -614,23 +629,82 @@ Package pdftex.def Info: konten/Hal_Depan/gambar/logo-undiksha.png  used on inpu
 
 
 {C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./konten/Hal_Depan/gambar/logo-undiksha.png>])
-\openout2 = `konten/Hal_Depan/lembar_persetujuan.aux'.
+\openout2 = `konten/Hal_Depan/lembar_persetujuan_pembimbing.aux'.
 
- (konten/Hal_Depan/lembar_persetujuan.tex
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 11.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.79996> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+ (konten/Hal_Depan/lembar_persetujuan_pembimbing.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
 
-Overfull \hbox (114.32361pt too wide) in paragraph at lines 19--25
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
  []
 
 )
@@ -639,7 +713,7 @@ Overfull \hbox (114.32361pt too wide) in paragraph at lines 19--25
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \include{konten/Hal_Depan/lembar_persetujuan}
+l.13 ...n/Hal_Depan/lembar_persetujuan_pembimbing}
                                                    [1
 
 
@@ -729,7 +803,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 36--37
  (konten/Hal_Isi/bab_3.tex)
 \openout2 = `konten/Hal_Belakang/daftar_pustaka.aux'.
 
- (konten/Hal_Belakang/daftar_pustaka.tex) (tesis.aux (konten/Hal_Depan/cover.aux) (konten/Hal_Depan/lembar_persetujuan.aux) (konten/Hal_Depan/lembar_pernyataan.aux) (konten/Hal_Depan/abstrak.aux) (konten/Hal_Depan/kata_pengantar.aux) (konten/Hal_Isi/bab_1.aux) (konten/Hal_Isi/bab_2.aux) (konten/Hal_Isi/bab_3.aux) (konten/Hal_Belakang/daftar_pustaka.aux))
+ (konten/Hal_Belakang/daftar_pustaka.tex) (tesis.aux (konten/Hal_Depan/cover.aux) (konten/Hal_Depan/lembar_persetujuan_pembimbing.aux) (konten/Hal_Depan/lembar_pernyataan.aux) (konten/Hal_Depan/abstrak.aux) (konten/Hal_Depan/kata_pengantar.aux) (konten/Hal_Isi/bab_1.aux) (konten/Hal_Isi/bab_2.aux) (konten/Hal_Isi/bab_3.aux) (konten/Hal_Belakang/daftar_pustaka.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
@@ -739,26 +813,26 @@ L3 programming layer <2024-12-09>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5E90C46C8B65EFEB36247FDBA45EABBD;1874.
+(rerunfilecheck)             Checksum: 4C1E9D712C34D404EACE88A863EA478D;1965.
  ) 
 Here is how much of TeX's memory you used:
- 15962 strings out of 473574
- 264377 string characters out of 5716611
- 749961 words of memory out of 5000000
- 38772 multiletter control sequences out of 15000+600000
- 595975 words of font info for 116 fonts, out of 8000000 for 9000
+ 16059 strings out of 473574
+ 266920 string characters out of 5716611
+ 750825 words of memory out of 5000000
+ 38861 multiletter control sequences out of 15000+600000
+ 590881 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,11n,107p,670b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,11n,107p,669b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{cite.purnamasari2015aspects} has been referenced but does not exist, replaced by a fixed one
 
 
 pdfTeX warning (dest): name{cite.mangalagowri2016eeg} has been referenced but does not exist, replaced by a fixed one
 
-<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (8 pages, 370991 bytes).
+<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (8 pages, 376094 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
+ 191 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
  126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

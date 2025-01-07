@@ -1,6 +1,6 @@
-PWD g:\My Drive\Studi\Proposal\Latex_UNDIKSHA_format
+PWD g:\My Drive\Studi\Proposal\latex_tesis_undiksha
 INPUT C:\Users\user\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT g:\My Drive\Studi\Proposal\Latex_UNDIKSHA_format\tesis.tex
+INPUT g:\My Drive\Studi\Proposal\latex_tesis_undiksha\tesis.tex
 OUTPUT tesis.log
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -12,6 +12,10 @@ INPUT .\konfigurasi\undiksha_s2_ilkom.sty
 INPUT konfigurasi\undiksha_s2_ilkom.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
@@ -177,9 +181,9 @@ INPUT tesis.aux
 INPUT .\konten\Hal_Depan\cover.aux
 INPUT .\konten\Hal_Depan\cover.aux
 INPUT konten\Hal_Depan\cover.aux
-INPUT .\konten\Hal_Depan\lembar_persetujuan.aux
-INPUT .\konten\Hal_Depan\lembar_persetujuan.aux
-INPUT konten\Hal_Depan\lembar_persetujuan.aux
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
+INPUT konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
 INPUT .\konten\Hal_Depan\lembar_pernyataan.aux
 INPUT .\konten\Hal_Depan\lembar_pernyataan.aux
 INPUT konten\Hal_Depan\lembar_pernyataan.aux
@@ -238,6 +242,7 @@ INPUT .\konten\Hal_Depan\cover.tex
 INPUT konten\Hal_Depan\cover.tex
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
@@ -288,24 +293,26 @@ INPUT .\konten\Hal_Depan\gambar\logo-undiksha.png
 INPUT .\konten\Hal_Depan\gambar\logo-undiksha.png
 INPUT .\konten\Hal_Depan\gambar\logo-undiksha.png
 INPUT .\konten\Hal_Depan\gambar\logo-undiksha.png
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
 INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT .\konten\Hal_Depan\lembar_persetujuan.tex
-INPUT .\konten\Hal_Depan\lembar_persetujuan.tex
-OUTPUT konten\Hal_Depan\lembar_persetujuan.aux
-INPUT .\konten\Hal_Depan\lembar_persetujuan.tex
-INPUT .\konten\Hal_Depan\lembar_persetujuan.tex
-INPUT konten\Hal_Depan\lembar_persetujuan.tex
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.tex
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.tex
+OUTPUT konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.tex
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.tex
+INPUT konten\Hal_Depan\lembar_persetujuan_pembimbing.tex
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmr.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmr.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmr.tfm
@@ -318,6 +325,7 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpzccmry
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpsycmrv.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpsycmrv.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpsycmrv.tfm
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
@@ -329,28 +337,8 @@ INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmr.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmr.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmrm.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zptmcmrm.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpzccmry.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpzccmry.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpsycmrv.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\zpsycmrv.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 OUTPUT konten\Hal_Depan\lembar_pernyataan.aux
 INPUT .\konten\Hal_Depan\abstrak.tex
 INPUT .\konten\Hal_Depan\abstrak.tex
@@ -364,6 +352,8 @@ OUTPUT konten\Hal_Depan\kata_pengantar.aux
 INPUT .\konten\Hal_Depan\kata_pengantar.tex
 INPUT .\konten\Hal_Depan\kata_pengantar.tex
 INPUT konten\Hal_Depan\kata_pengantar.tex
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\tesis.toc
 INPUT .\tesis.toc
 INPUT tesis.toc
@@ -406,9 +396,9 @@ INPUT tesis.aux
 INPUT .\konten\Hal_Depan\cover.aux
 INPUT .\konten\Hal_Depan\cover.aux
 INPUT konten\Hal_Depan\cover.aux
-INPUT .\konten\Hal_Depan\lembar_persetujuan.aux
-INPUT .\konten\Hal_Depan\lembar_persetujuan.aux
-INPUT konten\Hal_Depan\lembar_persetujuan.aux
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
+INPUT .\konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
+INPUT konten\Hal_Depan\lembar_persetujuan_pembimbing.aux
 INPUT .\konten\Hal_Depan\lembar_pernyataan.aux
 INPUT .\konten\Hal_Depan\lembar_pernyataan.aux
 INPUT konten\Hal_Depan\lembar_pernyataan.aux
@@ -434,6 +424,8 @@ INPUT .\tesis.out
 INPUT .\tesis.out
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmri8a.pfb

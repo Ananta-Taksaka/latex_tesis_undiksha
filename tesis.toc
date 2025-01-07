@@ -1,4 +1,4 @@
-\contentsline {chapter}{LEMBAR PERSETUJUAN}{i}{section*.1}%
+\contentsline {chapter}{Lembar Persetujuan Pembimbing Tesis}{i}{section*.1}%
 \contentsline {chapter}{LEMBAR PERNYATAAN}{ii}{section*.3}%
 \contentsline {chapter}{ABSTRAK}{ii}{section*.4}%
 \contentsline {chapter}{Kata Pengantar}{ii}{section*.5}%
